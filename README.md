@@ -1,3 +1,3 @@
 # coding-beast
-this is my first repository
+this is my first repository.
 Author- raj singh
